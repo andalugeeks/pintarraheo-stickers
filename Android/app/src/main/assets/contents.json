@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Pintarraheo Stickers",
+      "name": "Pintarraheô Stickers",
       "publisher": "AndaluGeeks",
       "tray_image_file": "tray_pintarraheo.png",
       "image_data_version": "1",
@@ -218,7 +218,7 @@
           ]
         },
         {
-          "image_file": "30-cohel-loai.webp",
+          "image_file": "30_cohel-loai.webp",
           "emojis": [
             "😮‍💨",
             "🤥"
