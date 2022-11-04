@@ -105,7 +105,7 @@ Sticker apps communicate with WhatsApp as follows:
 * Your app should send an intent to launch WhatsApp's activity. The intent contains three pieces of information: the `ContentProvider` authority, the pack identifier of the pack that user wants to add, and the sticker pack name. Once the user confirms that they want to add that sticker pack to WhatsApp, WhatsApp will remember the pair of authority and identifier and will load the pack's stickers in the WhatsApp sticker picker/tray.
 
 ### ContentProvider
-The ContentProvider in the sample app is [StickerContentProvider](app/src/main/java/com/example/samplestickerapp/StickerContentProvider.java). The ContentProvider provides 4 APIs:
+The ContentProvider in the sample app is [StickerContentProvider](app/src/main/java/com/example/pintarraheoStickers/StickerContentProvider.java). The ContentProvider provides 4 APIs:
 
 1. `<authority>/metadata`, this returns information about all the sticker packs in your app. Replace `<authority>` with the actual authority string. In the sample app, it is `com.example.samplestickerapp.stickercontentprovider`
 2. `<authority>/metadata/<pack_identifier>`, this returns information about a single pack. Replace `<pack_identifier>` with the actual identifier of the pack. In the sample app, it is `1`.
