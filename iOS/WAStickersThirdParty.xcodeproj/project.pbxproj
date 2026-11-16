@@ -218,6 +218,20 @@
 				8A18E33E1FBA7DC50082201D /* WebPManager.swift */,
 				8A22EE071F9A9F40003A7F21 /* Main.storyboard */,
 				8A18E33C1FBA793F0082201D /* sticker_packs.wasticker */,
+				8A26A6A71FEB2E2400256DE8 /* SampleStickers */,
+				8ADA60721FD71C8D006C9BBA /* UI */,
+				8A18E2F31FB3B4840082201D /* WebP */,
+				8A22EE0A1F9A9F40003A7F21 /* Assets.xcassets */,
+				8A22EE0C1F9A9F40003A7F21 /* LaunchScreen.storyboard */,
+				8A22EE0F1F9A9F40003A7F21 /* Info.plist */,
+				8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */,
+			);
+			path = WAStickersThirdParty;
+			sourceTree = "<group>";
+		};
+		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
+			isa = PBXGroup;
+			children = (
 				4B3FDFB8D7A13FE1AEDF4813 /* 10_nominrite.webp */,
 				5D2A5A1E440461879253679B /* 11_quemedehe.webp */,
 				82D19360420A9F21B10E53D1 /* 12_nanaidelaxina.webp */,
@@ -246,20 +260,6 @@
 				C3A3D0C88812BB07AFE6F062 /* 8_tecomolacara.webp */,
 				8C2BD347E8688A1D05B27353 /* 9_tacolao3pueblo.webp */,
 				64AC0868BE2D0D751E325A4D /* tray_pintarraheo.png */,
-				8A26A6A71FEB2E2400256DE8 /* SampleStickers */,
-				8ADA60721FD71C8D006C9BBA /* UI */,
-				8A18E2F31FB3B4840082201D /* WebP */,
-				8A22EE0A1F9A9F40003A7F21 /* Assets.xcassets */,
-				8A22EE0C1F9A9F40003A7F21 /* LaunchScreen.storyboard */,
-				8A22EE0F1F9A9F40003A7F21 /* Info.plist */,
-				8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */,
-			);
-			path = WAStickersThirdParty;
-			sourceTree = "<group>";
-		};
-		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
-			isa = PBXGroup;
-			children = (
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
