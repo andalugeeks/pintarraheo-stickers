@@ -1,5 +1,5 @@
 //
-// Copyright (c) WhatsApp Inc. and its affiliates.
+// Copyright (c) Meta Platforms, Inc. and affiliates.
 // All rights reserved.
 //
 // This source code is licensed under the BSD-style license found in the
@@ -107,10 +107,15 @@ class StickerPackManager {
                 let stickers: [[String: Any]] = pack["stickers"] as! [[String: Any]]
                 for sticker in stickers {
                     let emojis: [String]? = sticker["emojis"] as? [String]
+                    let accessibilityText: String? = sticker["accessibility_text"] as? String
 
                     let filename = sticker["image_file"] as! String
                     do {
-                        try stickerPack!.addSticker(contentsOfFile: filename, emojis: emojis)
+                        try stickerPack!.addSticker(
+                            contentsOfFile: filename,
+                            emojis: emojis,
+                            accessibilityText: accessibilityText
+                        )
                     } catch StickerPackError.stickersNumOutsideAllowableRange {
                         fatalError("Sticker count outside the allowable limit (\(Limits.MaxStickersPerPack) stickers per pack).")
                     } catch StickerPackError.fileNotFound {
