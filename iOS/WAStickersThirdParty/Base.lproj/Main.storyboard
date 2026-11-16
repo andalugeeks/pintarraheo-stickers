@@ -131,7 +131,7 @@
                             <outlet property="delegate" destination="VuN-R9-mKn" id="48C-xj-PKK"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Info" id="kT8-qH-4Vv">
+                    <navigationItem key="navigationItem" title="Info." id="kT8-qH-4Vv">
                         <barButtonItem key="rightBarButtonItem" style="done" systemItem="done" id="djo-Zr-wQq">
                             <connections>
                                 <action selector="donePressed:" destination="VuN-R9-mKn" id="Tfe-jj-1Zm"/>

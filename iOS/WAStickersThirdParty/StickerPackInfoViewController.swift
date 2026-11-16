@@ -17,8 +17,8 @@ private enum Website {
 class StickerPackInfoViewController: UITableViewController {
 
     private static let footerString: String = """
-    After adding this sticker pack to WhatsApp, you will be able to send these stickers to anyone \
-    in WhatsApp. To delete the sticker pack, go to the "My Stickers" panel in WhatsApp.
+    Cuando añadas este paquete a WhatsApp podrás enviar estos stickers a cualquiera. \
+    Para quitarlo, ve al panel "Mis stickers" de WhatsApp.
     """
 
     private var footerHeight: CGFloat {
@@ -138,10 +138,10 @@ class StickerPackInfoViewController: UITableViewController {
             switch indexPath.row {
             case 0:
                 secondaryCell.primaryImage = stickerPack.trayImage.image
-                secondaryCell.secondaryText = "Tray Icon"
+                secondaryCell.secondaryText = "Icono de bandeha"
             case 1:
                 secondaryCell.primaryText = stickerPack.publisher
-                secondaryCell.secondaryText = "Author"
+                secondaryCell.secondaryText = "Autoría"
             case 2:
                 secondaryCell.primaryText = stickerPack.formattedSize
                 secondaryCell.secondaryText = "Size"
@@ -154,13 +154,13 @@ class StickerPackInfoViewController: UITableViewController {
 
             switch indexPath.row {
             case index(ofWebsite: .publisher):
-                linkCell.linkTitle = "Publisher Website"
+                linkCell.linkTitle = "Bêh páhina web"
                 linkCell.linkImage = UIImage(named: "WAWebsiteIcon")!.withRenderingMode(.alwaysTemplate)
             case index(ofWebsite: .privacyPolicy):
-                linkCell.linkTitle = "Privacy Policy"
+                linkCell.linkTitle = "Política de pribaçidá"
                 linkCell.linkImage = UIImage(named: "WAPrivacyPolicyIcon")!.withRenderingMode(.alwaysTemplate)
             case index(ofWebsite: .licenseAgreement):
-                linkCell.linkTitle = "License Agreement"
+                linkCell.linkTitle = "Acuerdo de liçençia"
                 linkCell.linkImage = UIImage(named: "WALicenseIcon")!.withRenderingMode(.alwaysTemplate)
             default:
                 break

@@ -38,17 +38,13 @@ class AllStickerPacksViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         if needsFetchStickerPacks {
-            let alert: UIAlertController = UIAlertController(title: "Don't ship this sample app!", message: "If you want to ship your sticker packs to the App Store, create your own app with its own user interface. Your app must have minimum to no resemblance to this sample app.", preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: { action in
-                self.needsFetchStickerPacks = false
-                self.fetchStickerPacks()
-            }))
-            present(alert, animated: true)
+            needsFetchStickerPacks = false
+            fetchStickerPacks()
         }
     }
 
     private func fetchStickerPacks() {
-        let loadingAlert = UIAlertController(title: "Loading sticker packs", message: "\n\n", preferredStyle: .alert)
+        let loadingAlert = UIAlertController(title: "Cargando stickers", message: "\n\n", preferredStyle: .alert)
         loadingAlert.addSpinner()
         present(loadingAlert, animated: true)
 
@@ -107,7 +103,7 @@ class AllStickerPacksViewController: UIViewController {
     }
 
     @objc func addButtonTapped(button: UIButton) {
-        let loadingAlert: UIAlertController = UIAlertController(title: "Sending to WhatsApp", message: "\n\n", preferredStyle: .alert)
+        let loadingAlert: UIAlertController = UIAlertController(title: "Enviando a WhatsApp", message: "\n\n", preferredStyle: .alert)
         loadingAlert.addSpinner()
         present(loadingAlert, animated: true)
 

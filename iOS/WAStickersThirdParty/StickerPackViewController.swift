@@ -68,7 +68,7 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
         let shareImage: UIImage = UIImage(named: "ShareIcon")!.withRenderingMode(.alwaysTemplate)
 
         let addButton: AquaButton = AquaButton(frame: .zero)
-        addButton.setTitle("Add to WhatsApp", for: .normal)
+        addButton.setTitle("Añadîh ar WhatsApp", for: .normal)
         addButton.setImage(buttonImage, for: .normal)
         addButton.addTarget(self, action: #selector(addButtonPressed(button:)), for: .touchUpInside)
         addButton.translatesAutoresizingMaskIntoConstraints = false
@@ -76,7 +76,7 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
         view.addSubview(addButton)
 
         let shareButton: GrayRoundedButton = GrayRoundedButton(frame: .zero)
-        shareButton.setTitle("Share", for: .normal)
+        shareButton.setTitle("Compartir", for: .normal)
         shareButton.setImage(shareImage, for: .normal)
         shareButton.addTarget(self, action: #selector(shareButtonPressed(button:)), for: .touchUpInside)
         shareButton.translatesAutoresizingMaskIntoConstraints = false
@@ -86,7 +86,7 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
         stickerPackAnimationIcon.isHidden = !stickerPack.animated
 
         let tapGuideLabel: UILabel = UILabel()
-        tapGuideLabel.text = "Tap on any sticker to copy or share it"
+        tapGuideLabel.text = "Toca un sticker para copiarlo o compartirlo"
         tapGuideLabel.font = UIFont.systemFont(ofSize: 15)
         tapGuideLabel.textColor = UIColor(red: 0.6, green: 0.6, blue: 0.6, alpha: 1.0)
         tapGuideLabel.translatesAutoresizingMaskIntoConstraints = false
@@ -248,13 +248,13 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
         actionSheet.popoverPresentationController?.permittedArrowDirections = UIPopoverArrowDirection()
         actionSheet.popoverPresentationController?.sourceRect = CGRect(x: cell.contentView.bounds.midX, y: cell.contentView.bounds.midY, width: 0, height: 0)
 
-        actionSheet.addAction(UIAlertAction(title: "Copy to Clipboard", style: .default, handler: { _ in
+        actionSheet.addAction(UIAlertAction(title: "Copiar", style: .default, handler: { _ in
             sticker.copyToPasteboardAsImage()
         }))
-        actionSheet.addAction(UIAlertAction(title: "Share via", style: .default, handler: { _ in
+        actionSheet.addAction(UIAlertAction(title: "Compartir con…", style: .default, handler: { _ in
             self.showShareSheet(withSticker: sticker)
         }))
-        actionSheet.addAction(UIAlertAction(title: "Cancel", style: .cancel))
+        actionSheet.addAction(UIAlertAction(title: "Cancelar", style: .cancel))
 
         if let stickerImage = sticker.imageData.image {
             actionSheet.addImageView(withImage: stickerImage, animated: sticker.imageData.animated)
@@ -284,7 +284,7 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
     }
 
     @objc func addButtonPressed(button: AquaButton) {
-        let loadingAlert: UIAlertController = UIAlertController(title: "Sending to WhatsApp", message: "\n\n", preferredStyle: .alert)
+        let loadingAlert: UIAlertController = UIAlertController(title: "Enviando a WhatsApp", message: "\n\n", preferredStyle: .alert)
         loadingAlert.addSpinner()
         present(loadingAlert, animated: true)
 
