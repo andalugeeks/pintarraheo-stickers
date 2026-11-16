@@ -10,7 +10,7 @@
         <!--Sticker Packs-->
         <scene sceneID="B1S-hN-MFe">
             <objects>
-                <viewController title="Sticker Packs" id="M67-ew-auO" customClass="AllStickerPacksViewController" customModule="WAStickersThirdParty" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Pintarraheô" id="M67-ew-auO" customClass="AllStickerPacksViewController" customModule="WAStickersThirdParty" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="83V-gx-xE9"/>
                         <viewControllerLayoutGuide type="bottom" id="ajP-Ty-Icd"/>
@@ -36,7 +36,7 @@
                             <constraint firstItem="CD6-Ts-Zg8" firstAttribute="trailing" secondItem="8NA-Zm-FU0" secondAttribute="trailing" id="vda-Sj-2Bg"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Sticker Packs" largeTitleDisplayMode="never" id="x4y-Ef-GnB"/>
+                    <navigationItem key="navigationItem" title="Pintarraheô" largeTitleDisplayMode="never" id="x4y-Ef-GnB"/>
                     <connections>
                         <outlet property="stickerPacksTableView" destination="CD6-Ts-Zg8" id="2vb-pz-MeQ"/>
                         <segue destination="Ngp-pe-fiT" kind="show" identifier="stickerPackAnimated" id="xrT-yi-hRx"/>

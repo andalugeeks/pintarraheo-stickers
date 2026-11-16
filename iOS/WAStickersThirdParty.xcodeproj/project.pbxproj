@@ -7,28 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		055CF8F725C117C90071BA8D /* 02_WellDoThisTogether.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E125C117C80071BA8D /* 02_WellDoThisTogether.webp */; };
-		055CF8F825C117C90071BA8D /* 17_WashingHands.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E225C117C80071BA8D /* 17_WashingHands.webp */; };
-		055CF8F925C117C90071BA8D /* 10_WorkingFromBed.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E325C117C80071BA8D /* 10_WorkingFromBed.webp */; };
-		055CF8FA25C117C90071BA8D /* 19_SocialDistancing.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E425C117C80071BA8D /* 19_SocialDistancing.webp */; };
-		055CF8FB25C117C90071BA8D /* 11_StayCalm.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E525C117C80071BA8D /* 11_StayCalm.webp */; };
-		055CF8FC25C117C90071BA8D /* 06_StayConnected.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E625C117C80071BA8D /* 06_StayConnected.webp */; };
-		055CF8FD25C117C90071BA8D /* 14_CatOnTheLaptop.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E725C117C80071BA8D /* 14_CatOnTheLaptop.webp */; };
-		055CF8FE25C117C90071BA8D /* 15_WorkingFromHomeF.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E825C117C80071BA8D /* 15_WorkingFromHomeF.webp */; };
-		055CF8FF25C117C90071BA8D /* 18_DontTouchYourFace.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8E925C117C80071BA8D /* 18_DontTouchYourFace.webp */; };
-		055CF90025C117C90071BA8D /* 05_GroupVideoCalling.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8EA25C117C80071BA8D /* 05_GroupVideoCalling.webp */; };
-		055CF90125C117C90071BA8D /* 20_SuperheroNurse.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8EB25C117C80071BA8D /* 20_SuperheroNurse.webp */; };
-		055CF90225C117C90071BA8D /* 04_AirHighFive.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8EC25C117C90071BA8D /* 04_AirHighFive.webp */; };
-		055CF90325C117C90071BA8D /* 12_Gymnastics.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8ED25C117C90071BA8D /* 12_Gymnastics.webp */; };
-		055CF90425C117C90071BA8D /* 13_DoubleChecking.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8EE25C117C90071BA8D /* 13_DoubleChecking.webp */; };
-		055CF90525C117C90071BA8D /* 01_SendingLove.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8EF25C117C90071BA8D /* 01_SendingLove.webp */; };
-		055CF90625C117C90071BA8D /* 08_AreYouOK.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F025C117C90071BA8D /* 08_AreYouOK.webp */; };
-		055CF90725C117C90071BA8D /* 16_WorkingFromHomeM.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F125C117C90071BA8D /* 16_WorkingFromHomeM.webp */; };
-		055CF90825C117C90071BA8D /* 21_YouAreMyHero.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F225C117C90071BA8D /* 21_YouAreMyHero.webp */; };
-		055CF90925C117C90071BA8D /* 03_Heart.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F325C117C90071BA8D /* 03_Heart.webp */; };
-		055CF90A25C117C90071BA8D /* 09_StayingHomeMug.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F425C117C90071BA8D /* 09_StayingHomeMug.webp */; };
-		055CF90B25C117C90071BA8D /* tray_TogetherAtHome.png in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F525C117C90071BA8D /* tray_TogetherAtHome.png */; };
-		055CF90C25C117C90071BA8D /* 07_OK.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F625C117C90071BA8D /* 07_OK.webp */; };
+		AB3A90B7DA875957550BA1E7 /* 10_nominrite.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4B3FDFB8D7A13FE1AEDF4813 /* 10_nominrite.webp */; };
+		588BE21F83D475A586E2B045 /* 11_quemedehe.webp in Resources */ = {isa = PBXBuildFile; fileRef = 5D2A5A1E440461879253679B /* 11_quemedehe.webp */; };
+		7370B0987F9F4223D4ADC8E2 /* 12_nanaidelaxina.webp in Resources */ = {isa = PBXBuildFile; fileRef = 82D19360420A9F21B10E53D1 /* 12_nanaidelaxina.webp */; };
+		5BD1ACD311851FA43DCCA2D7 /* 13_catetotu.webp in Resources */ = {isa = PBXBuildFile; fileRef = 3BA10386ECD603497674EB3D /* 13_catetotu.webp */; };
+		D3517E0E770F2141AD1FDAA3 /* 14_mehorcitadelomio.webp in Resources */ = {isa = PBXBuildFile; fileRef = 00FDB6F959F83E07EAAED128 /* 14_mehorcitadelomio.webp */; };
+		F5BCB744A7E8F32FAFB0FADA /* 15_engaya.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6D352A605034CFAD818E7D25 /* 15_engaya.webp */; };
+		186A157969447BCA22D9D589 /* 16_nomenfado.webp in Resources */ = {isa = PBXBuildFile; fileRef = FCAAE3B0B2C00662B39CD24A /* 16_nomenfado.webp */; };
+		3837453373D2432D9AFFE518 /* 17_ereelaceite.webp in Resources */ = {isa = PBXBuildFile; fileRef = 21E877A9907D5415D3361DFF /* 17_ereelaceite.webp */; };
+		314043FBC3BAC8C418DD412D /* 18_queamuxoparmetorito.webp in Resources */ = {isa = PBXBuildFile; fileRef = FEE3826F01E16CA5E47E941A /* 18_queamuxoparmetorito.webp */; };
+		AFE828A1B0398842E71D30B4 /* 19_eremuhartible.webp in Resources */ = {isa = PBXBuildFile; fileRef = CCFD205874EF62D35606D84E /* 19_eremuhartible.webp */; };
+		32F03C056E340C41139649A9 /* 1_fitetu.webp in Resources */ = {isa = PBXBuildFile; fileRef = 322EDC2E691732584CDB6A86 /* 1_fitetu.webp */; };
+		CD7CC639C6D97E0D67997AF3 /* 20_hartitametiene.webp in Resources */ = {isa = PBXBuildFile; fileRef = A89FB7D474A25C248A56AC5E /* 20_hartitametiene.webp */; };
+		B0F1E6EE006E0CE44976D287 /* 21_dertiron.webp in Resources */ = {isa = PBXBuildFile; fileRef = A9DB84BB4F42BD731D3F996E /* 21_dertiron.webp */; };
+		980A6586A356B0639733E986 /* 22_ahuih.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9CC4B0B9EA18283C1258C8E6 /* 22_ahuih.webp */; };
+		05B89CEC5790B50002F902D7 /* 23_quenonofartedena.webp in Resources */ = {isa = PBXBuildFile; fileRef = B4663B42494138A5A3C5EFDD /* 23_quenonofartedena.webp */; };
+		AE77C471D8A4F64D91DA0824 /* 24_amoalialla.webp in Resources */ = {isa = PBXBuildFile; fileRef = 7E5575708242FB1F9416111C /* 24_amoalialla.webp */; };
+		81CAE5EFCE5DB9C8B3F5A269 /* 25_omeporfaboh.webp in Resources */ = {isa = PBXBuildFile; fileRef = F057BD138B4290578510CB29 /* 25_omeporfaboh.webp */; };
+		2ADBBC8D51AE344135D7C326 /* 26_iyoiyoiyo.webp in Resources */ = {isa = PBXBuildFile; fileRef = 525BDF4B4EFBB09B12184D45 /* 26_iyoiyoiyo.webp */; };
+		353CDD0CD62AF2C9B7CDE769 /* 27_iyaiyaiya.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8C39D7337D79ADF331DBA97B /* 27_iyaiyaiya.webp */; };
+		B838D16D772025E2DB530BB0 /* 28_aroaroaro.webp in Resources */ = {isa = PBXBuildFile; fileRef = 04CBBE2F744469C95CC70257 /* 28_aroaroaro.webp */; };
+		A5F77746E9BB3C1BD1725B1F /* 2_teqquiya.webp in Resources */ = {isa = PBXBuildFile; fileRef = 34615D9B6E29FA6DFA8FA3CF /* 2_teqquiya.webp */; };
+		0479CB017BEA20CE000B50E1 /* 30_cohel-loai.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9E191012E0A3D2B319FE9B70 /* 30_cohel-loai.webp */; };
+		92FF597257ED40D2B4DAFE23 /* 3_timahina.webp in Resources */ = {isa = PBXBuildFile; fileRef = EDD5C9189B59556CB5FBC78C /* 3_timahina.webp */; };
+		84B5200496ABD2586E92AADC /* 4_nonina.webp in Resources */ = {isa = PBXBuildFile; fileRef = 033F19A7096A243CDED4E66A /* 4_nonina.webp */; };
+		187774068E25BF92CD710E99 /* 6_nimihita.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9CFBC898EE61B1DDA8057805 /* 6_nimihita.webp */; };
+		24168F6DE402FFA4D65CF338 /* 8_tecomolacara.webp in Resources */ = {isa = PBXBuildFile; fileRef = C3A3D0C88812BB07AFE6F062 /* 8_tecomolacara.webp */; };
+		B40C44CF57CF1AE00C15882C /* 9_tacolao3pueblo.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8C2BD347E8688A1D05B27353 /* 9_tacolao3pueblo.webp */; };
+		F9B23A4C85159614D11100DA /* tray_pintarraheo.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC0868BE2D0D751E325A4D /* tray_pintarraheo.png */; };
 		0E6359A4203E148200805DEB /* StickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6359A3203E148200805DEB /* StickerCell.swift */; };
 		8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
@@ -58,32 +64,6 @@
 		8AB5951920C1FC130076625E /* Sticker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951820C1FC130076625E /* Sticker.swift */; };
 		8AB5951B20C1FC440076625E /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951A20C1FC440076625E /* ImageData.swift */; };
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
-		8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234882146F63D00E3667B /* tray_Cuppy.png */; };
-		8AC234A42146F65500E3667B /* 06_Cuppy_love.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */; };
-		8AC234A52146F65500E3667B /* 09_Cuppy_lovewithcookie.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */; };
-		8AC234A62146F65500E3667B /* 15_Cuppy_bluescreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */; };
-		8AC234A72146F65500E3667B /* 10_Cuppy_hmm.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */; };
-		8AC234A82146F65500E3667B /* 07_Cuppy_hate.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */; };
-		8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234902146F65100E3667B /* 14_Cuppy_weird.png */; };
-		8AC234AA2146F65500E3667B /* 22_Cuppy_bye.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234912146F65100E3667B /* 22_Cuppy_bye.png */; };
-		8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234922146F65100E3667B /* 12_Cuppy_angry.png */; };
-		8AC234AC2146F65500E3667B /* 23_Cuppy_greentea.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */; };
-		8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234942146F65100E3667B /* 01_Cuppy_smile.png */; };
-		8AC234AE2146F65500E3667B /* 21_Cuppy_hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234952146F65200E3667B /* 21_Cuppy_hi.png */; };
-		8AC234AF2146F65500E3667B /* 02_Cuppy_lol.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234962146F65200E3667B /* 02_Cuppy_lol.png */; };
-		8AC234B02146F65500E3667B /* 03_Cuppy_rofl.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */; };
-		8AC234B12146F65500E3667B /* 08_Cuppy_lovewithmug.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */; };
-		8AC234B22146F65500E3667B /* 24_Cuppy_phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234992146F65200E3667B /* 24_Cuppy_phone.png */; };
-		8AC234B32146F65500E3667B /* 13_Cuppy_curious.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */; };
-		8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */; };
-		8AC234B52146F65500E3667B /* 16_Cuppy_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */; };
-		8AC234B62146F65500E3667B /* 25_Cuppy_battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */; };
-		8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */; };
-		8AC234B82146F65500E3667B /* 05_Cuppy_cry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */; };
-		8AC234B92146F65500E3667B /* 19_Cuppy_shine.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */; };
-		8AC234BA2146F65500E3667B /* 20_Cuppy_disgusting.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */; };
-		8AC234BB2146F65500E3667B /* 17_Cuppy_tired.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */; };
-		8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
 /* End PBXBuildFile section */
@@ -102,28 +82,34 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		055CF8E125C117C80071BA8D /* 02_WellDoThisTogether.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 02_WellDoThisTogether.webp; sourceTree = "<group>"; };
-		055CF8E225C117C80071BA8D /* 17_WashingHands.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 17_WashingHands.webp; sourceTree = "<group>"; };
-		055CF8E325C117C80071BA8D /* 10_WorkingFromBed.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 10_WorkingFromBed.webp; sourceTree = "<group>"; };
-		055CF8E425C117C80071BA8D /* 19_SocialDistancing.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 19_SocialDistancing.webp; sourceTree = "<group>"; };
-		055CF8E525C117C80071BA8D /* 11_StayCalm.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 11_StayCalm.webp; sourceTree = "<group>"; };
-		055CF8E625C117C80071BA8D /* 06_StayConnected.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 06_StayConnected.webp; sourceTree = "<group>"; };
-		055CF8E725C117C80071BA8D /* 14_CatOnTheLaptop.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 14_CatOnTheLaptop.webp; sourceTree = "<group>"; };
-		055CF8E825C117C80071BA8D /* 15_WorkingFromHomeF.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 15_WorkingFromHomeF.webp; sourceTree = "<group>"; };
-		055CF8E925C117C80071BA8D /* 18_DontTouchYourFace.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 18_DontTouchYourFace.webp; sourceTree = "<group>"; };
-		055CF8EA25C117C80071BA8D /* 05_GroupVideoCalling.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 05_GroupVideoCalling.webp; sourceTree = "<group>"; };
-		055CF8EB25C117C80071BA8D /* 20_SuperheroNurse.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 20_SuperheroNurse.webp; sourceTree = "<group>"; };
-		055CF8EC25C117C90071BA8D /* 04_AirHighFive.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 04_AirHighFive.webp; sourceTree = "<group>"; };
-		055CF8ED25C117C90071BA8D /* 12_Gymnastics.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 12_Gymnastics.webp; sourceTree = "<group>"; };
-		055CF8EE25C117C90071BA8D /* 13_DoubleChecking.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 13_DoubleChecking.webp; sourceTree = "<group>"; };
-		055CF8EF25C117C90071BA8D /* 01_SendingLove.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 01_SendingLove.webp; sourceTree = "<group>"; };
-		055CF8F025C117C90071BA8D /* 08_AreYouOK.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 08_AreYouOK.webp; sourceTree = "<group>"; };
-		055CF8F125C117C90071BA8D /* 16_WorkingFromHomeM.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 16_WorkingFromHomeM.webp; sourceTree = "<group>"; };
-		055CF8F225C117C90071BA8D /* 21_YouAreMyHero.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 21_YouAreMyHero.webp; sourceTree = "<group>"; };
-		055CF8F325C117C90071BA8D /* 03_Heart.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 03_Heart.webp; sourceTree = "<group>"; };
-		055CF8F425C117C90071BA8D /* 09_StayingHomeMug.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 09_StayingHomeMug.webp; sourceTree = "<group>"; };
-		055CF8F525C117C90071BA8D /* tray_TogetherAtHome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tray_TogetherAtHome.png; sourceTree = "<group>"; };
-		055CF8F625C117C90071BA8D /* 07_OK.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 07_OK.webp; sourceTree = "<group>"; };
+		4B3FDFB8D7A13FE1AEDF4813 /* 10_nominrite.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 10_nominrite.webp; sourceTree = "<group>"; };
+		5D2A5A1E440461879253679B /* 11_quemedehe.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 11_quemedehe.webp; sourceTree = "<group>"; };
+		82D19360420A9F21B10E53D1 /* 12_nanaidelaxina.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 12_nanaidelaxina.webp; sourceTree = "<group>"; };
+		3BA10386ECD603497674EB3D /* 13_catetotu.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 13_catetotu.webp; sourceTree = "<group>"; };
+		00FDB6F959F83E07EAAED128 /* 14_mehorcitadelomio.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 14_mehorcitadelomio.webp; sourceTree = "<group>"; };
+		6D352A605034CFAD818E7D25 /* 15_engaya.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 15_engaya.webp; sourceTree = "<group>"; };
+		FCAAE3B0B2C00662B39CD24A /* 16_nomenfado.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 16_nomenfado.webp; sourceTree = "<group>"; };
+		21E877A9907D5415D3361DFF /* 17_ereelaceite.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 17_ereelaceite.webp; sourceTree = "<group>"; };
+		FEE3826F01E16CA5E47E941A /* 18_queamuxoparmetorito.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 18_queamuxoparmetorito.webp; sourceTree = "<group>"; };
+		CCFD205874EF62D35606D84E /* 19_eremuhartible.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 19_eremuhartible.webp; sourceTree = "<group>"; };
+		322EDC2E691732584CDB6A86 /* 1_fitetu.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 1_fitetu.webp; sourceTree = "<group>"; };
+		A89FB7D474A25C248A56AC5E /* 20_hartitametiene.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 20_hartitametiene.webp; sourceTree = "<group>"; };
+		A9DB84BB4F42BD731D3F996E /* 21_dertiron.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 21_dertiron.webp; sourceTree = "<group>"; };
+		9CC4B0B9EA18283C1258C8E6 /* 22_ahuih.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 22_ahuih.webp; sourceTree = "<group>"; };
+		B4663B42494138A5A3C5EFDD /* 23_quenonofartedena.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 23_quenonofartedena.webp; sourceTree = "<group>"; };
+		7E5575708242FB1F9416111C /* 24_amoalialla.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 24_amoalialla.webp; sourceTree = "<group>"; };
+		F057BD138B4290578510CB29 /* 25_omeporfaboh.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 25_omeporfaboh.webp; sourceTree = "<group>"; };
+		525BDF4B4EFBB09B12184D45 /* 26_iyoiyoiyo.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 26_iyoiyoiyo.webp; sourceTree = "<group>"; };
+		8C39D7337D79ADF331DBA97B /* 27_iyaiyaiya.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 27_iyaiyaiya.webp; sourceTree = "<group>"; };
+		04CBBE2F744469C95CC70257 /* 28_aroaroaro.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 28_aroaroaro.webp; sourceTree = "<group>"; };
+		34615D9B6E29FA6DFA8FA3CF /* 2_teqquiya.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 2_teqquiya.webp; sourceTree = "<group>"; };
+		9E191012E0A3D2B319FE9B70 /* 30_cohel-loai.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 30_cohel-loai.webp; sourceTree = "<group>"; };
+		EDD5C9189B59556CB5FBC78C /* 3_timahina.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 3_timahina.webp; sourceTree = "<group>"; };
+		033F19A7096A243CDED4E66A /* 4_nonina.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 4_nonina.webp; sourceTree = "<group>"; };
+		9CFBC898EE61B1DDA8057805 /* 6_nimihita.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 6_nimihita.webp; sourceTree = "<group>"; };
+		C3A3D0C88812BB07AFE6F062 /* 8_tecomolacara.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 8_tecomolacara.webp; sourceTree = "<group>"; };
+		8C2BD347E8688A1D05B27353 /* 9_tacolao3pueblo.webp */ = {isa = PBXFileReference; explicitFileType = compiled; path = 9_tacolao3pueblo.webp; sourceTree = "<group>"; };
+		64AC0868BE2D0D751E325A4D /* tray_pintarraheo.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = tray_pintarraheo.png; sourceTree = "<group>"; };
 		0E6359A3203E148200805DEB /* StickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerCell.swift; sourceTree = "<group>"; };
 		8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Additions.swift"; sourceTree = "<group>"; };
 		8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WAStickersThirdParty-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -169,32 +155,6 @@
 		8AB5951820C1FC130076625E /* Sticker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sticker.swift; sourceTree = "<group>"; };
 		8AB5951A20C1FC440076625E /* ImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
-		8AC234882146F63D00E3667B /* tray_Cuppy.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = tray_Cuppy.png; sourceTree = "<group>"; };
-		8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 06_Cuppy_love.png; sourceTree = "<group>"; };
-		8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 09_Cuppy_lovewithcookie.png; sourceTree = "<group>"; };
-		8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 15_Cuppy_bluescreen.png; sourceTree = "<group>"; };
-		8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 10_Cuppy_hmm.png; sourceTree = "<group>"; };
-		8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 07_Cuppy_hate.png; sourceTree = "<group>"; };
-		8AC234902146F65100E3667B /* 14_Cuppy_weird.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 14_Cuppy_weird.png; sourceTree = "<group>"; };
-		8AC234912146F65100E3667B /* 22_Cuppy_bye.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 22_Cuppy_bye.png; sourceTree = "<group>"; };
-		8AC234922146F65100E3667B /* 12_Cuppy_angry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 12_Cuppy_angry.png; sourceTree = "<group>"; };
-		8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 23_Cuppy_greentea.png; sourceTree = "<group>"; };
-		8AC234942146F65100E3667B /* 01_Cuppy_smile.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 01_Cuppy_smile.png; sourceTree = "<group>"; };
-		8AC234952146F65200E3667B /* 21_Cuppy_hi.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 21_Cuppy_hi.png; sourceTree = "<group>"; };
-		8AC234962146F65200E3667B /* 02_Cuppy_lol.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 02_Cuppy_lol.png; sourceTree = "<group>"; };
-		8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 03_Cuppy_rofl.png; sourceTree = "<group>"; };
-		8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 08_Cuppy_lovewithmug.png; sourceTree = "<group>"; };
-		8AC234992146F65200E3667B /* 24_Cuppy_phone.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 24_Cuppy_phone.png; sourceTree = "<group>"; };
-		8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 13_Cuppy_curious.png; sourceTree = "<group>"; };
-		8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 04_Cuppy_sad.png; sourceTree = "<group>"; };
-		8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 16_Cuppy_angry.png; sourceTree = "<group>"; };
-		8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 25_Cuppy_battery.png; sourceTree = "<group>"; };
-		8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 18_Cuppy_workhard.png; sourceTree = "<group>"; };
-		8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 05_Cuppy_cry.png; sourceTree = "<group>"; };
-		8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 19_Cuppy_shine.png; sourceTree = "<group>"; };
-		8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 20_Cuppy_disgusting.png; sourceTree = "<group>"; };
-		8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 17_Cuppy_tired.png; sourceTree = "<group>"; };
-		8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 11_Cuppy_upset.png; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -258,6 +218,34 @@
 				8A18E33E1FBA7DC50082201D /* WebPManager.swift */,
 				8A22EE071F9A9F40003A7F21 /* Main.storyboard */,
 				8A18E33C1FBA793F0082201D /* sticker_packs.wasticker */,
+				4B3FDFB8D7A13FE1AEDF4813 /* 10_nominrite.webp */,
+				5D2A5A1E440461879253679B /* 11_quemedehe.webp */,
+				82D19360420A9F21B10E53D1 /* 12_nanaidelaxina.webp */,
+				3BA10386ECD603497674EB3D /* 13_catetotu.webp */,
+				00FDB6F959F83E07EAAED128 /* 14_mehorcitadelomio.webp */,
+				6D352A605034CFAD818E7D25 /* 15_engaya.webp */,
+				FCAAE3B0B2C00662B39CD24A /* 16_nomenfado.webp */,
+				21E877A9907D5415D3361DFF /* 17_ereelaceite.webp */,
+				FEE3826F01E16CA5E47E941A /* 18_queamuxoparmetorito.webp */,
+				CCFD205874EF62D35606D84E /* 19_eremuhartible.webp */,
+				322EDC2E691732584CDB6A86 /* 1_fitetu.webp */,
+				A89FB7D474A25C248A56AC5E /* 20_hartitametiene.webp */,
+				A9DB84BB4F42BD731D3F996E /* 21_dertiron.webp */,
+				9CC4B0B9EA18283C1258C8E6 /* 22_ahuih.webp */,
+				B4663B42494138A5A3C5EFDD /* 23_quenonofartedena.webp */,
+				7E5575708242FB1F9416111C /* 24_amoalialla.webp */,
+				F057BD138B4290578510CB29 /* 25_omeporfaboh.webp */,
+				525BDF4B4EFBB09B12184D45 /* 26_iyoiyoiyo.webp */,
+				8C39D7337D79ADF331DBA97B /* 27_iyaiyaiya.webp */,
+				04CBBE2F744469C95CC70257 /* 28_aroaroaro.webp */,
+				34615D9B6E29FA6DFA8FA3CF /* 2_teqquiya.webp */,
+				9E191012E0A3D2B319FE9B70 /* 30_cohel-loai.webp */,
+				EDD5C9189B59556CB5FBC78C /* 3_timahina.webp */,
+				033F19A7096A243CDED4E66A /* 4_nonina.webp */,
+				9CFBC898EE61B1DDA8057805 /* 6_nimihita.webp */,
+				C3A3D0C88812BB07AFE6F062 /* 8_tecomolacara.webp */,
+				8C2BD347E8688A1D05B27353 /* 9_tacolao3pueblo.webp */,
+				64AC0868BE2D0D751E325A4D /* tray_pintarraheo.png */,
 				8A26A6A71FEB2E2400256DE8 /* SampleStickers */,
 				8ADA60721FD71C8D006C9BBA /* UI */,
 				8A18E2F31FB3B4840082201D /* WebP */,
@@ -272,54 +260,6 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
-				055CF8EF25C117C90071BA8D /* 01_SendingLove.webp */,
-				055CF8F525C117C90071BA8D /* tray_TogetherAtHome.png */,
-				055CF8E125C117C80071BA8D /* 02_WellDoThisTogether.webp */,
-				055CF8F325C117C90071BA8D /* 03_Heart.webp */,
-				055CF8EC25C117C90071BA8D /* 04_AirHighFive.webp */,
-				055CF8EA25C117C80071BA8D /* 05_GroupVideoCalling.webp */,
-				055CF8E625C117C80071BA8D /* 06_StayConnected.webp */,
-				055CF8F625C117C90071BA8D /* 07_OK.webp */,
-				055CF8F025C117C90071BA8D /* 08_AreYouOK.webp */,
-				055CF8F425C117C90071BA8D /* 09_StayingHomeMug.webp */,
-				055CF8E325C117C80071BA8D /* 10_WorkingFromBed.webp */,
-				055CF8E525C117C80071BA8D /* 11_StayCalm.webp */,
-				055CF8ED25C117C90071BA8D /* 12_Gymnastics.webp */,
-				055CF8EE25C117C90071BA8D /* 13_DoubleChecking.webp */,
-				055CF8E725C117C80071BA8D /* 14_CatOnTheLaptop.webp */,
-				055CF8E825C117C80071BA8D /* 15_WorkingFromHomeF.webp */,
-				055CF8F125C117C90071BA8D /* 16_WorkingFromHomeM.webp */,
-				055CF8E225C117C80071BA8D /* 17_WashingHands.webp */,
-				055CF8E925C117C80071BA8D /* 18_DontTouchYourFace.webp */,
-				055CF8E425C117C80071BA8D /* 19_SocialDistancing.webp */,
-				055CF8EB25C117C80071BA8D /* 20_SuperheroNurse.webp */,
-				055CF8F225C117C90071BA8D /* 21_YouAreMyHero.webp */,
-				8AC234882146F63D00E3667B /* tray_Cuppy.png */,
-				8AC234942146F65100E3667B /* 01_Cuppy_smile.png */,
-				8AC234962146F65200E3667B /* 02_Cuppy_lol.png */,
-				8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */,
-				8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */,
-				8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */,
-				8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */,
-				8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */,
-				8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */,
-				8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */,
-				8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */,
-				8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */,
-				8AC234922146F65100E3667B /* 12_Cuppy_angry.png */,
-				8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */,
-				8AC234902146F65100E3667B /* 14_Cuppy_weird.png */,
-				8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */,
-				8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */,
-				8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */,
-				8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */,
-				8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */,
-				8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */,
-				8AC234952146F65200E3667B /* 21_Cuppy_hi.png */,
-				8AC234912146F65100E3667B /* 22_Cuppy_bye.png */,
-				8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */,
-				8AC234992146F65200E3667B /* 24_Cuppy_phone.png */,
-				8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -426,61 +366,41 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				055CF90225C117C90071BA8D /* 04_AirHighFive.webp in Resources */,
-				8AC234A72146F65500E3667B /* 10_Cuppy_hmm.png in Resources */,
-				8AC234B92146F65500E3667B /* 19_Cuppy_shine.png in Resources */,
-				055CF8F925C117C90071BA8D /* 10_WorkingFromBed.webp in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
-				8AC234B52146F65500E3667B /* 16_Cuppy_angry.png in Resources */,
-				8AC234B12146F65500E3667B /* 08_Cuppy_lovewithmug.png in Resources */,
-				8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */,
-				8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
-				8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */,
-				055CF8FC25C117C90071BA8D /* 06_StayConnected.webp in Resources */,
-				8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */,
-				055CF90525C117C90071BA8D /* 01_SendingLove.webp in Resources */,
-				8AC234AA2146F65500E3667B /* 22_Cuppy_bye.png in Resources */,
-				055CF8FE25C117C90071BA8D /* 15_WorkingFromHomeF.webp in Resources */,
-				8AC234A52146F65500E3667B /* 09_Cuppy_lovewithcookie.png in Resources */,
-				055CF90325C117C90071BA8D /* 12_Gymnastics.webp in Resources */,
-				055CF90B25C117C90071BA8D /* tray_TogetherAtHome.png in Resources */,
-				8AC234AE2146F65500E3667B /* 21_Cuppy_hi.png in Resources */,
-				8AC234B82146F65500E3667B /* 05_Cuppy_cry.png in Resources */,
-				055CF90125C117C90071BA8D /* 20_SuperheroNurse.webp in Resources */,
-				8AC234A82146F65500E3667B /* 07_Cuppy_hate.png in Resources */,
-				8AC234B02146F65500E3667B /* 03_Cuppy_rofl.png in Resources */,
-				055CF90925C117C90071BA8D /* 03_Heart.webp in Resources */,
-				055CF90725C117C90071BA8D /* 16_WorkingFromHomeM.webp in Resources */,
-				055CF8FB25C117C90071BA8D /* 11_StayCalm.webp in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
-				055CF90A25C117C90071BA8D /* 09_StayingHomeMug.webp in Resources */,
-				055CF8FD25C117C90071BA8D /* 14_CatOnTheLaptop.webp in Resources */,
-				055CF90C25C117C90071BA8D /* 07_OK.webp in Resources */,
-				055CF8FA25C117C90071BA8D /* 19_SocialDistancing.webp in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
-				055CF90025C117C90071BA8D /* 05_GroupVideoCalling.webp in Resources */,
-				055CF8F825C117C90071BA8D /* 17_WashingHands.webp in Resources */,
-				055CF90625C117C90071BA8D /* 08_AreYouOK.webp in Resources */,
-				055CF90825C117C90071BA8D /* 21_YouAreMyHero.webp in Resources */,
-				8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */,
-				8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */,
-				055CF8FF25C117C90071BA8D /* 18_DontTouchYourFace.webp in Resources */,
-				8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
-				8AC234AF2146F65500E3667B /* 02_Cuppy_lol.png in Resources */,
-				8AC234A42146F65500E3667B /* 06_Cuppy_love.png in Resources */,
-				055CF90425C117C90071BA8D /* 13_DoubleChecking.webp in Resources */,
-				055CF8F725C117C90071BA8D /* 02_WellDoThisTogether.webp in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
-				8AC234B32146F65500E3667B /* 13_Cuppy_curious.png in Resources */,
-				8AC234B22146F65500E3667B /* 24_Cuppy_phone.png in Resources */,
-				8AC234B62146F65500E3667B /* 25_Cuppy_battery.png in Resources */,
-				8AC234BB2146F65500E3667B /* 17_Cuppy_tired.png in Resources */,
-				8AC234BA2146F65500E3667B /* 20_Cuppy_disgusting.png in Resources */,
 				8A18E33D1FBA793F0082201D /* sticker_packs.wasticker in Resources */,
-				8AC234A62146F65500E3667B /* 15_Cuppy_bluescreen.png in Resources */,
-				8AC234AC2146F65500E3667B /* 23_Cuppy_greentea.png in Resources */,
+				AB3A90B7DA875957550BA1E7 /* 10_nominrite.webp in Resources */,
+				588BE21F83D475A586E2B045 /* 11_quemedehe.webp in Resources */,
+				7370B0987F9F4223D4ADC8E2 /* 12_nanaidelaxina.webp in Resources */,
+				5BD1ACD311851FA43DCCA2D7 /* 13_catetotu.webp in Resources */,
+				D3517E0E770F2141AD1FDAA3 /* 14_mehorcitadelomio.webp in Resources */,
+				F5BCB744A7E8F32FAFB0FADA /* 15_engaya.webp in Resources */,
+				186A157969447BCA22D9D589 /* 16_nomenfado.webp in Resources */,
+				3837453373D2432D9AFFE518 /* 17_ereelaceite.webp in Resources */,
+				314043FBC3BAC8C418DD412D /* 18_queamuxoparmetorito.webp in Resources */,
+				AFE828A1B0398842E71D30B4 /* 19_eremuhartible.webp in Resources */,
+				32F03C056E340C41139649A9 /* 1_fitetu.webp in Resources */,
+				CD7CC639C6D97E0D67997AF3 /* 20_hartitametiene.webp in Resources */,
+				B0F1E6EE006E0CE44976D287 /* 21_dertiron.webp in Resources */,
+				980A6586A356B0639733E986 /* 22_ahuih.webp in Resources */,
+				05B89CEC5790B50002F902D7 /* 23_quenonofartedena.webp in Resources */,
+				AE77C471D8A4F64D91DA0824 /* 24_amoalialla.webp in Resources */,
+				81CAE5EFCE5DB9C8B3F5A269 /* 25_omeporfaboh.webp in Resources */,
+				2ADBBC8D51AE344135D7C326 /* 26_iyoiyoiyo.webp in Resources */,
+				353CDD0CD62AF2C9B7CDE769 /* 27_iyaiyaiya.webp in Resources */,
+				B838D16D772025E2DB530BB0 /* 28_aroaroaro.webp in Resources */,
+				A5F77746E9BB3C1BD1725B1F /* 2_teqquiya.webp in Resources */,
+				0479CB017BEA20CE000B50E1 /* 30_cohel-loai.webp in Resources */,
+				92FF597257ED40D2B4DAFE23 /* 3_timahina.webp in Resources */,
+				84B5200496ABD2586E92AADC /* 4_nonina.webp in Resources */,
+				187774068E25BF92CD710E99 /* 6_nimihita.webp in Resources */,
+				24168F6DE402FFA4D65CF338 /* 8_tecomolacara.webp in Resources */,
+				B40C44CF57CF1AE00C15882C /* 9_tacolao3pueblo.webp in Resources */,
+				F9B23A4C85159614D11100DA /* tray_pintarraheo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -570,7 +490,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -588,7 +508,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -628,7 +548,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -641,7 +561,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -656,15 +576,17 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = LAWPFLVDHJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
+				PRODUCT_BUNDLE_IDENTIFIER = es.andaluh.pintarraheoStickers;
+				MARKETING_VERSION = 0.7;
+				CURRENT_PROJECT_VERSION = 1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -680,15 +602,17 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = LAWPFLVDHJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
+				PRODUCT_BUNDLE_IDENTIFIER = es.andaluh.pintarraheoStickers;
+				MARKETING_VERSION = 0.7;
+				CURRENT_PROJECT_VERSION = 1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
