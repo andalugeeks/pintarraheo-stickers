@@ -1,6 +1,7 @@
 # Builds the iOS sticker app on a GitHub-hosted macOS runner, signs it with Xcode
 # cloud-managed signing (App Store Connect API key) and uploads it to TestFlight.
 # Setup and required secrets: iOS/TESTFLIGHT.md
+# Pushes that only touch other paths do not trigger it; edit this file or iOS/ to rebuild.
 name: iOS TestFlight
 
 on:
