@@ -23,7 +23,9 @@ jobs:
   testflight:
     # Secrets are only available in this repository, never in forks.
     if: github.repository == 'andalugeeks/pintarraheo-stickers'
-    runs-on: macos-26
+    # Intel image: same Xcode 26.6 as macos-26, but outside the macOS arm64 pool, where
+    # jobs were cancelled after 15 min without a runner (Nov 2026 capacity constraints).
+    runs-on: macos-26-intel
     timeout-minutes: 45
     env:
       XCODE_APP: /Applications/Xcode_26.6.app
