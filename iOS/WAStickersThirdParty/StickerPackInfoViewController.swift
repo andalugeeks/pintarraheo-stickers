@@ -140,11 +140,11 @@ class StickerPackInfoViewController: UITableViewController {
                 secondaryCell.primaryImage = stickerPack.trayImage.image
                 secondaryCell.secondaryText = "Icono de bandeha"
             case 1:
-                secondaryCell.primaryText = stickerPack.publisher
+                secondaryCell.primaryText = stickerPack!.publisher
                 secondaryCell.secondaryText = "Autoría"
             case 2:
                 secondaryCell.primaryText = stickerPack.formattedSize
-                secondaryCell.secondaryText = "Size"
+                secondaryCell.secondaryText = "Tamaño"
             default:
                 break
             }

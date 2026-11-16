@@ -82,7 +82,7 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
         shareButton.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(shareButton)
 
-        stickerPackPublisherLabel.text = "\(stickerPack.publisher) • \(stickerPack.formattedSize)"
+        stickerPackPublisherLabel.text = "\(stickerPack!.publisher) • \(stickerPack!.formattedSize)"
         stickerPackAnimationIcon.isHidden = !stickerPack.animated
 
         let tapGuideLabel: UILabel = UILabel()
